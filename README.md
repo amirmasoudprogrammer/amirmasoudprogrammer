@@ -7,6 +7,6 @@
 <span>
   Programming languages
 </span>
-img  
+<img src="./icons.svg" alt="icon" />  
   
 </div>    
