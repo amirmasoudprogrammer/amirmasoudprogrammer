@@ -7,6 +7,10 @@
 <div >
   Programming languages
 </div>
+<br/>
+<br/>
+<br/>
+<br/>
 <div>
   <img src="./icons.svg" alt="icon" />  
 </div>  
