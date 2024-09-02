@@ -6,7 +6,9 @@
 </h5>  
 <div >
   Programming languages
-</span>
-<img src="./icons.svg" alt="icon" />  
+</div>
+<div>
+  <img src="./icons.svg" alt="icon" />  
+</div>  
   
 </div>    
