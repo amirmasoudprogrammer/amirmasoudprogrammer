@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./vRGM6iybBF.png" alt="icon" width="550px"/>
+<img src="./vRGM6iybBF.png" alt="icon" width="500px"/>
 
 <h5>
   programmer website FrontEnd 
@@ -7,5 +7,6 @@
 <span>
   Programming languages
 </span>
+img  
   
 </div>    
