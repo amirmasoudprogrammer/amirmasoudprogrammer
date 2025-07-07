@@ -26,6 +26,7 @@
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![vite](https://img.shields.io/badge/vite-%23E34F26.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![Zustand](https://img.shields.io/badge/Zustand-%23E34F26.svg?style=for-the-badge&logo=vite&logoColor=white) 
 
 ## 🌐 Socials :
 
